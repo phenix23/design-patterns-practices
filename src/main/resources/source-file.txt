@@ -1,0 +1,3 @@
+Hello world , It 's a decorator design pattern ..
+
+data to write !! compressor write It's my work to compress data encryption write It's my work to encrypt data 
